@@ -1,0 +1,25 @@
+第一步 git init
+第二步 git remote add origin 远程仓库地址
+报错：Permission denied (publickey)
+步骤1-生成SSH key
+步骤2-复制SSH key
+步骤3-粘贴SSH key
+步骤4-查看ssh通信是否连接成功
+第三步 git push -u -f origin master强制推送远程
+
+
+第一步 git init
+git init 命令用于初始化Git 仓库。git init之后会提示“Initialized empty Git repository in 某个目录”，此时就会在相应的目录下创建一个“.git”文件夹。这个文件夹里的文件就是git的实现。没有git init之前，git status会提示“not a git repository”
+
+第二步 git remote add origin 远程仓库地址
+步骤1-生成SSH key  ssh-keygen -t rsa -C "邮箱地址@163.com"
+步骤2-复制SSH key
+Your public key has been saved in C:\Users\Administrator/.ssh/id_rsa.pub.
+可以看出已经成功生成了Key，并保存在了C盘下了。
+步骤3-粘贴SSH key
+复制这个id_rsa.pub中的内容然后粘贴到你的远程仓库里
+步骤4-查看ssh通信是否连接成功。
+
+
+第三步 git push -u -f origin master强制推送远程
+这里慕课网的Geely老师解释说，为什么强制推送呢，因为我们远程项目刚创建好，第一次推送代码，远程仓库是空的什么都没有，直接进行一个master上的全覆盖是没有问题的。

@@ -1,0 +1,262 @@
+FrontPage2003
+http://v.ku6.com/show/lUwbKx011ex8Q-UJdwfw4g...html?lb=1
+C语言入门在线观看
+http://v.ku6.com/show/K-HxvR8hoEfa3k_b1aKFRw...html?lb=1
+C语言编写的学生成绩管理系统_百度文库
+http://wenku.baidu.com/link?url=6WNcSxAw3HMlWx_I1NEKcBHRDJFRpEr6bKcu3T27GC1wI4Z7neASCEjVB47yVub3EhkDuNne5H2jC0Dd3hR23GMWpqjtjAG_GXp4iDlvel7
+用C语言编写的学生成绩管理系统_百度文库
+http://bbs.csdn.net/topics/390321388?page=1
+C语言课程设计_学生考勤管理系统-综合课件-道客巴巴
+http://www.doc88.com/p-336430946173.html
+《C语言编写 学生管理系统》-JiangBo_Liu 博客
+http://blog.csdn.net/sdliujiangbo/article/details/7685882
+用C语言编写的一个学生信息管理系统
+http://blog.sina.com.cn/s/blog_97995a8001010ac4.html
+c++ 初学者指南 第八篇(4)
+http://blog.csdn.net/zhangxingping/article/details/5812616
+C++俄罗斯方块源码(完整功能版)
+http://www.docin.com/p-708256955.html
+学生成绩管理系统
+http://bbs.bccn.net/thread-218304-1-1.html
+毕业设计（论文）-基于C语言的图书馆管理系统.doc
+http://max.book118.com/html/2013/0302/3396322.shtm
+C语言案例_百度文库
+http://wenku.baidu.com/view/f3e9bfc3d5bbfd0a7956732a.html
+千峰C语言教学-hao123影视
+http://v.baidu.com/v?word=+千峰+c语言教学&fr=video&ie=utf-8
+教你如何编写病毒--博客频道
+http://blog.csdn.net/hejianhua/article/details/3136899
+取消定时关机的指令是什么呀-爱问知识人
+http://iask.sina.com.cn/b/19554705.html
+定时关机，取消自动关机的命令是什么？-电脑_Windows_操作系统_天涯问答
+http://wenda.tianya.cn/question/324f294875ea6e81
+关系的命令提示符是什么
+http://wenwen.sogou.com/z/q96374400.htm
+一个两位纯数字密码破解程序怎么编，用C语言
+http://zhidao.baidu.com/link?url=Q_giOkbpIgvmSPB_NnMI7XzDq2dWtxT0izNlBGWUUm7izyFrWu89WJX5Y8A7Thps8WSJqcQ4I7kfW3ydKewaY_
+简单密码破解_C语言吧_百度贴吧
+http://tieba.baidu.com/p/545889991
+C语言破解CMOS密码的魅力-James-page
+http://blog.chinaunix.net/uid-20394955-id-1952339.html
+CMOS_百度百科
+http://baike.baidu.com/link?url=1guGfnEvvpv4S-tXpgb4GOlwCvKLsixdfPwK14wRmu_IGowlhr6p53YgX2VLATjK
+自动关机命令_百度百科
+http://baike.baidu.com/link?url=7bfqcU5lluM_YhR6MDqeswesbuJn6SUYlB4PfDza4GuFcyWQvCMCElJKOTfvT7mw53-eSc1ZdQmz6GL2_nPDlK
+C语言内存管理
+http://blog.sina.com.cn/s/blog_8c7bf1970100zjej.html
+稀疏矩阵快速转置——C语言数据结构 
+http://blog.sina.com.cn/s/blog_928f4ae001019f4o.html
+稀疏矩阵的存储和快速装置-其他资料-道客巴巴
+http://www.doc88.com/p-2781615023194.html
+稀疏矩阵的快速转置和快速相乘
+http://blog.sina.com.cn/s/blog_4b74a5400100tukd.html
+C++数组应用之特殊矩阵的压缩存储_c语言教程_C++教程_C语言培训
+http://itlab.idcquan.com/c/c/basic/200905/783102.html
+百度视屏-inventor教程 陈伯雄
+http://v.baidu.com/v?s=8&word=inventor%BD%CC%B3%CC%20%B3%C2%B2%AE%D0%DB&fr=ala11#pn=0
+C语言图形输出时怎样控制字符的大小
+http://blog.sina.com.cn/s/blog_4aabe831010005u6.html
+system函数-百度文库
+http://wenku.baidu.com/link?url=APSYOt9rexvnNhvl_r-5sAI_6-CaWXKUr8n4LMzaa5uSmML9_u6B2HZhjPqDzB1TzG8LY0Z5FZb5UJfBF7QGmX9yXwoNhKqDadbu62Syrbq
+随机函数的使用方法
+http://wenku.baidu.com/link?url=D9lcTE2DmCN9GLPPUKa--USShP-zWI6X3usVUdxg6MtRBvhEcTNBsxWKTGon-8kfV80M1Id1JOJ4Z7XM4NVRE_wjaw_iPFFAxFMI8AKbqNu
+C语言随机函数总结
+http://hi.baidu.com/svyee/item/18a5dae03a2790b42e140be0
+srand-百度百科
+http://baike.baidu.com/link?url=S5qJeGsoxut6bYIs-_0cst7JrTF3_nJIeYKymyqnhXwOK9VSxsNcJltPlQ8D_cv0UcQHf1fSUxJauGiUDhcEjK
+C语言中srand(), rand(), time()函数
+http://wenku.baidu.com/link?url=m2Z08Xfy0DsdErv7dfP2TipDU3wCDfInS-hWQG-IzAgpwSv2XphxXUD9WNMsSdtCqtBEnareXVO1l_N3B4b_cSAmhv-65eowDDeyLiL5d_i
+c语言编写的计算器代码附带使用说明c语言编写的计算器代码附带使用说明
+http://wenku.baidu.com/link?url=QmKVJAOyVXoeavXWJceUnuRFyp_SSI1PF86xhXKoxFToEqlRJDJswmLZ8jWzI3rt_vLdQXqD76z6BnBPzwkPPhuo2EO5i7ws0E_i3CozQNu
+ fopen()函数
+http://blog.csdn.net/borenbao/article/details/849640
+FILE函数
+http://wenku.baidu.com/link?url=gqK43BDPEXtYizPdSiixd27HprJCJvxKFuwJ-IPnmoeMpW-Z1u3eTC-UYiADw3iMz5vW_Xq5w3L6ha7K6Kgi8A9XJKq0sSkXDrXa-U5lmUy
+C语言文件操作函数大全
+http://blog.csdn.net/qianwenhao/article/details/2160014/
+C语言中的strcmp函数有什么作用，它的格式是怎样的?
+http://zhidao.baidu.com/link?url=nCy7sbB15RRgeK80xyZQ7qhEkYYd1gvO077bpbbji2_yB_5yUL7ZWpUiY9VLtCtpnm46vdTS8RBc0FWcQyEh4q
+用C语言编写小游戏
+http://zhidao.baidu.com/link?url=1H_-BV-FnmEhTmRUbmZMSqRjOPvviW50yz5YQzXOfb3hoQm0x6jLwh-GJP2kJeyRgLFHRyQzAopbv7--2i3Mu_
+贪吃蛇游戏的C语言代码
+http://zhidao.baidu.com/link?url=tE-wsmDR6Z2x3qZTga0hEH0TMFqV2iFQpnThqONdK7WyNAtN7IiBU-09x8igck_A_iU4EafBYMXI7LTlP69E8a
+贪吃蛇游戏VC源代码
+http://tieba.baidu.com/p/780347796
+案例一 贪吃蛇游戏
+http://wenku.it168.com/d_000914453.shtml
+c语言链表教程-百度视频
+http://v.baidu.com/v?s=8&word=c%D3%EF%D1%D4%C1%B4%B1%ED%BD%CC%B3%CC&fr=ala11#pn=40
+链表教程-百度视屏
+http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&word=链表教程&ie=utf-8&ie=utf-8#pn=20
+matlab-hao123影音
+http://v.baidu.com/v?word=matlab&fr=video&ie=utf-8&f=3&rsp=0
+Matlab 2012b、2010b、matlab7的下载地址、安装、比较、及常见问题
+http://wenku.baidu.com/link?url=pgHb3YVWDDGc290cRGJ9hamSt1o3xGRmRCdw-jZ-8NPSr5It7sSfUjwmWc-vOpEBfUl1_MBcO_sGtyefPzSqKK_xC-VPcFWWUsxmihjskMa
+C语言中Exit函数的使用 
+http://blog.sina.com.cn/s/blog_6d5fee120100xxt1.html
+c语言选择法、冒泡法等
+http://wenku.baidu.com/link?url=KxKSebUSTob4jYVU9ePYXRX-jJdlaiGPFUU0lEEX0saN_7QTK5QAJBcYECXQUV3gIOIoMceEkNMYsWcwS50J46FLSZPNJsdvP6N3qkwLTQe
+加密算法-百度
+加密算法
+pid算法程序
+http://wenku.baidu.com/link?url=4mJEKoCDHcC7OGEqaW_Zdbzt7RnTxhTVnZAoUkbS20ZgRvm_KOnaBzG6iRdL6hqHK59FKgTnE10embFRoa1Z9qGBcA_j4ckpoW5LU-EFwGy
+经典控制算法PID程序
+http://blog.sina.com.cn/s/blog_a69955c701014l9p.html
+关于单片机PID的算法实现  
+http://blog.163.com/djl_310/blog/static/8668667200872804916176/
+常用PID算法集合-百度文库
+http://wenku.baidu.com/link?url=axVzwkTKvhMyTHP5tLgWFmDqK3uRPlQb-xf69SLFu6DHNSZ69ctSF-83VyCX3YRF2nKoJVEayhvf6iOKfHwcrs3gFH_1faXrqltakN0Q4Jm
+C语言编写菜单示例  
+http://lostinreality.blog.163.com/blog/static/2006493122011101225131935/
+函数GetNum()和ShowMenu()怎么用 请举例 C语言的
+http://zhidao.baidu.com/link?url=pQgvgTbK3cqYI9rJEo-YehjsMGCwmfWXQXiHGNE3p7zvU0DkYmj2kngRAwoaIFeS--XbmWfEsrIWx_2UQHW4xa
+C语言puts函数好gets函数的调用问题:为什么通过Menu()函数调用的puts()和gets()函数输出异常?
+http://zhidao.baidu.com/link?url=SaG8758afk-tUzVFucKc3I-wfATTwP6PBZP2-bRhf3tJ6pgnHEk0k5TUq-SzoXM8JIUiwKvr4UMRZgZtbnDS7q
+C语言下拉菜单设计-带源代码
+http://wenku.baidu.com/link?url=6CkDd6j6NnJhbatphA0rFDaBcZCQ0C6IGQv5wZSUHJe6WBy6FrHY2HNAIWRUZNgXjwAbzy8-nADhsQ-S5cR9wag-MwGNO_G5TgYIVhLCt1G
+C语言菜单介绍
+http://wenku.baidu.com/link?url=7ERKstkljOASCm0kNTH3HrPy82ZyxA29SKirbmPkKFniYYWwSYFlSt9hkJY-XNybXCPoo9lfl5MBn-Ck860i8vQKnyagZcIMQLKLNn5emXW
+ C语言版简单成绩查询系统
+http://www.docin.com/p-463446425.html
+c语言编写坦克大战源代码
+http://wenku.baidu.com/link?url=VWPQHG-RW2K-rjWHHhhlZSxMEhus7djehMFIFq8XsMGFYKhh9IPaP6KBJLSP9YNN_Pi-qQHpG3-LWbYiYL2vByX7Ce1RCaiSjUP9Q7bwecm
+【精品】c语言编写坦克大战源代码
+http://www.doc88.com/p-7975481821205.html
+C语言游戏编写例子
+http://wenku.baidu.com/link?url=cFNwrbJcJPONMpYLepJY8-ou-onapR6ehKK5vlL4cy8WCyQzFSiwZJPbrdutJyDCUxkHfdMakIRvZnrFBoucw-wCoRW1hmZNeQT4V_EcEsm
+C语言编写简单图形界面  
+http://lufengcheng.1129.blog.163.com/blog/static/73007795201023103158587/
+C语言编写的工资管理系统源代码
+http://wenku.baidu.com/link?url=CgUzibsqHUnsOwmWdpX1Np1Iov-bp1v4AmFxrwsRz5ZHK_mLIYOyEZbsoLyhN9Qo9eLVYc-jTaAMXinonEjiLRe6mXuwMwFXnQl2qobMaKW
+c语言教程-百度视频
+http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&word=c语言教程&ie=utf-8
+Visual Studio 2008 简体中文版
+http://www.xdowns.com/soft/38/121/2009/soft_51596.html#download_box
+严蔚敏：数据结构C语言版
+http://www.tudou.com/programs/view/zHcr5l4jDRs/?tpa=dW5pb25faWQ9MTAzMDkzXzEwMDAwMl8wMV8wMQ
+size_t-百度百科
+http://baike.baidu.com/view/3236587.htm?fr=aladdin#3
+include<stdlib.h>是什么意思啊
+http://zhidao.baidu.com/link?
+url=2cRNWpmDZnruHNTlUNlK_effabK_TY8FIxUKmN_3kry5nvrFKCcyZL3y8d8qAMi3F9Q8EcXeCihsq9gGIbGi9q
+size_t-百度百科
+http://baike.baidu.com/view/3236587.htm?fr=aladdin
+c语言编写坦克大战源代码
+http://wenku.baidu.com/link?url=oRFvRX5PdFcyLCwdDJNlxsVLwnZiQqZOIcluVbbGbPbFKSF3I5ZwUr770h6KSDesnGLhH6UUK4UlACYIjXajeJsiHvoSvs-ee8cajsec-fa
+ c语言编写坦克大战源代码
+http://www.oschina.net/code/piece_full?code=5532
+学C语言要看哪些书?
+学C语言要看哪些书？-百度
+怎样编写用C语言编写坦克大战,俄罗斯方块,等游戏?（我不是要代码)请各位高手推荐几本教材?
+http://zhidao.baidu.com/link?url=u-9ZQk6PwNm-nSGP8jDuGnemRJP68d1M_2kIKNZK_SMCh8HKB4WtkhGMcvxUAO6dMFFdaA2p8kWIRM0Y2fY4O_
+坦克大战,及源代码
+http://wenku.baidu.com/link?url=LQjI8-BRR8RAN8hW6fEVpDCK2C6HBgyo6Bt_2KTUigvhIJfeZen-MSEgmvktZmqlinDLkP8C4AzVd0lG1lQXNqF4iaWLhvRJGeJ3zq3UUMq
+ldiv 函数说明-Standard C 语言标准函数库速查 (Cheat Sheet)
+http://ganquan.info/standard-c/function/ldiv
+C语言常用库函数
+http://wenku.baidu.com/link?url=CpyGnnzoW0YYV3G35SwSg2ikP8WLEgJAa9jkAMDvy050qRLlFKWADLYj8LHBO4niMeXOApgpRl_lXRSuHfs6erzVqJoQ9Ds9j-ORdSzzl6e
+C语言中常用的标准库函数
+http://wenku.baidu.com/link?url=a8ggHFzW0gB9sfcdcFmwfOlfaHxRGiGwTB1XlNsaddre0i1_2FbszXAjgHmSZWe2xN0-0fGg9DGCAtPMZe1EnsqK06JzJCbPK58m_jA2-gi
+C语言中的随机数 && 商余函数ldiv
+http://blog.csdn.net/zhandoushi1982/article/details/6324523
+C语言中return与 exit的区别
+C语言中return与 exit的区别-百度360doc
+快速排序算法
+http://baike.baidu.com/view/19016.htm?fr=aladdin
+数据挖掘
+http://baike.baidu.com/view/7893.htm?fr=aladdin
+迪杰斯特拉算法
+http://baike.baidu.com/view/1712262.htm?fr=aladdin
+C语言中十六进制数360问答
+http://wenda.so.com/q/1372059254067817
+10 C语言课程设计_坦克大战(提高篇)
+http://wenku.baidu.com/view/eda1d5f6aeaad1f346933f8f.html?re=view
+c语言坦克大战最新代码 pdf-道客巴巴
+http://www.doc88.com/p-311766888201.html
+用c做的简单的坦克大战小游戏(给初学者点动力)-C语言吧
+http://tieba.baidu.com/p/3650938
+C++和C语言中编译预处理大全_line_error_pragma_ifdef_ifndef_undef_endif_等等的学习总结
+http://wenku.baidu.com/view/acd56ed1360cba1aa811daad.html
+c语言画坦克-百度文科
+http://wenku.baidu.com/link?url=4MDkQ4QSQ9N5EwFjjXiS3sCS3YVVCzgf_xmoYVRseNObkUgDY41YVqwHmVRP4U_Be1bLleY-4rI9QyuD71VTmBtNOLjtPnXy3AVMjNzXME3
+如何用电话激活windows8系统-百度经验
+http://jingyan.baidu.com/article/3ea5148904869c52e61bbaeb.html
+黑客基础知识大全1-百度百科
+黑客基础知识大全1
+常用C语言图形函数使用说明
+http://hefuliang.cai.swufe.edu.cn/EXAMPLE/PROG0026.htm
+TC图形界面-百度知道
+http://zhidao.baidu.com/link?url=z7RaHHW-_BIfHEMimEW_FTEMUpf7_uCkyjnKyL9qal3DEzWcPr9DRvHENf417D7q725cJDpdZQhaiZgnQ962oK
+数据结构课程设计提示EASYX-百度文库
+http://wenku.baidu.com/link?url=1DotC58HI5_EHeZJMYAQIIpAT_76m15IFfeiqFtwjsXp0lCtaXOhm5hFJ2UCfgJI1l_sSOQP9_cOKBpPAtSdeRd8_fPCKp5tmwhdgvMiwxS
+计算机技术基础(c语言)课程设计 雪花飘落
+http://wenku.baidu.com/link?url=dg69HcC0G4OjJXigeAV66CbcvdWuQfOrXHT9BeeHIXGsgRkfZwuVM9GHELBBe-Zk7bU4bjaakCtNapaS6zNy808NnvoSJs2ymTKrPIPUc9q
+如何用c语言画一个矩形
+http://zhidao.baidu.com/link?url=WGEBo46SnGiECGfYqvIA9BchnUFIIs0oxsFU-DcY6r29z-EmyedaVcErhhNXVwHHafUbInQRXHxibp75xO36TK
+急~~tc为什么一执行就退出?
+http://bbs.csdn.net/topics/310032766
+C语言十大经典实例编程-doc豆丁
+http://www.docin.com/p-630482928.html
+C语言图形编程(三、绘图函数1)-百度文库
+http://wenku.baidu.com/link?url=AUQo1J8JT7QoKnUaYaXddePZwm2AYOkmNCBPB_KyavRcHztL5MfznmyLM_AqP98sLGfpU9ZASA9T5_sXhHZK-1HjtxE_G1ZgLTcwzOlUTfi
+200行弹跳球C语言程序及其流程图（没有错误）
+http://blog.163.com/langzi19880606@126/blog/static/967693520078155283124/
+计算机程序设计课程设计(c语言)-豆丁
+http://www.docin.com/p-736132053.html
+C语言作业-百度文库
+http://wenku.baidu.com/link?url=m2OVsEQ287zVHgSKmNUQPcEeXKbzOfNOoe0KYQw4OnbGSCf7zfv7VDQgK2TZfW_W-GNwF0te5pvcgkyI29uTWMjwP1SehW3naPWFVNYJxuC
+C语言10大经典实例C语言10大经典实例-百度文库
+http://wenku.baidu.com/link?url=WGXCl0pzFPOs_RpmvG-TozS4QQ2o2tIlZrpYUmlUym9nSV_rDTkG09vOUjzPA0P1hnFdoMKE7J6UtqBqgUhJjT-njbCL7DrkXSUifmKgnO7
+randomize() rand() -china_2008ay的博客
+http://blog.163.com/china_2008ay/blog/static/901422522009513105224289/
+《贪吃蛇游戏课程设计》报告-百度文库
+http://wenku.baidu.com/link?url=Rxm2kGCUxeu0rgOIwaki2nfVt-p1wr-7Dj86SNFz8QFsk-HH64BZ-3mmw2nmQEL-r9vprz8bouwMRdEqFFgsAi-jqeVhg7kFcDFdVhBV8U3
+软件后门-jiangxinyu的专栏
+http://blog.csdn.net/jiangxinyu/article/details/5324450
+怎样学习网站建设-百度经验
+http://jingyan.baidu.com/article/4d58d541e9558b9dd4e9c02a.html
+网站留2种后门终极学习网站留2种后门终极学习-百度文库
+http://wenku.baidu.com/link?url=Xm7I4OBE06l840vrXv4nJCmxRVMq19QSWseDLkW0TZlJnUreDKWND-QhKBdTHa__TInE8nQMjiKZuor_uqbM_fliahBoHapIZHLvYWOS3ki
+10月免费Web安全讲座开课了... 黑客论坛
+http://bbs.hackbase.com/forum.php
+资本论-电子书免费在线阅读_百度阅读
+http://yuedu.baidu.com/ebook/5a1413a6ba0d4a7303763a49?fr=aladdin&f=read
+Python-百度百科
+http://baike.baidu.com/view/21087.htm?fr=aladdin
+python基础教程-百度
+python基础教程
+简单的C语言问题
+http://zhidao.baidu.com/link?url=tBLaUR3tZOn7nKcFZmKujHvau3PoTX1cUxDXmQVXX7HYDbhSRyxiaalUpMTT5e49hvnN_E6iW7xx2B_q9DL-Xq
+C语言编写简单的记事本（源代码）
+http://bbs.csdn.net/topics/70409323
+C语言编写记事本的代码怎么写？
+http://zhidao.baidu.com/link?url=dyadNoNHPcsPzrZcNgXRF3ZCDuw9LzOB2WWZNp_sAYYmjfcDwY9qpJU-4zrhYd3V79EfBCxjvMNgZn4_pZgIqK
+define-百度百科
+http://baike.baidu.com/view/1441209.htm?from_id=2761406&type=syn&fromtitle=%23define&fr=aladdin
+ Windows下的gotoxy 函数-tody_guo的专栏博客
+http://blog.csdn.net/tody_guo/article/details/7662466
+大海战Freepascal之Crt单元
+http://www.cnblogs.com/Booble/archive/2010/10/30/1865211.html
+ C++控制台操作（基本操作的代码）
+http://blog.csdn.net/stude/article/details/7645056
+乒乓球游戏-21视频教程网
+http://www.21shipin.com/html/62114.shtml
+《C／C 程序设计》第08章(综合编程训练)-百度文库
+http://wenku.baidu.com/link?url=Jr1GL9aVF9ZYtrAQ5qXomJBIKtf207ox9KlBes13AIQu2pB2j4GeFgDR8wGGePjg21rLo91GUIcebNhkbmQ0W1dMPq6iAGlyKG8yBycm9q3
+C语言图形编程(二、图形显示)
+http://wenku.baidu.com/link?url=xg9PNW8z1pxk5iRAmDKdQ1OYB4wKrPuOrOIMg3mBg5KkLhjOVS9LyLK9Gd7v3ZoxuHQspqtuaPhIa_egDkBYuiVO9Idyx8klDUInjkVdI9S
+C语言图形编程(二、图形显示)
+http://wenku.baidu.com/link?url=STznOmsFcrLZIzzYqfgHKnTryZxmOPsAsRTVDsA0R-9BB3DdYbPXYgSwGGZUvZzNhms1hpbZMH55EqulJ14r1c2uCqJjLbolhw181Kb1lyu
+initgraph-百度百科
+http://baike.baidu.com/view/1081251.htm?fr=aladdin
+C语言绘图知识-百度文库
+http://wenku.baidu.com/link?url=qvQ8MY2cqbRRmOaXHIuKTvU8TmQD1SYJjkVw07iG3n-afuwiO7VvhEL4q5GAQIhiz4z_yiBmNcgzw4bY2YNzoHvzwbQO83aGMiprsqCoGi7
+在FLASH as3.0的贪吃蛇制作中怎么用数组控制蛇身体的移动，搞了好久都不行，还是有别的办法？请高人指点
+http://zhidao.baidu.com/link?url=BM3xcgXcyhFzTqpSCgkzFGUq8RPJO7EGORNdHHJ3Yv6KUQCAz-czLHOQg6LNAUkT0wXRi5uhp34EPTHFkynohK
+大侠们帮忙解决下 C语言中怎么用数组的方式 解决贪吃蛇拐弯时一点一点动的问题呀?
+http://zhidao.baidu.com/link?url=aJbEFysjCwoE642HfkcUR8-firyn2UBeRlbbU5entCTvYY8LUz68F26KqyPmdJ76IjQ5jnNjyYm6BJl4TdzgNa
+如何用C语言定义矩阵-百度经验
+http://jingyan.baidu.com/article/a3a3f8118a3a4a8da3eb8a5a.html
+c语言中关于制作地图时矩阵的使用-百度
+c语言中关于制作地图时矩阵的使用
+===================================================================
