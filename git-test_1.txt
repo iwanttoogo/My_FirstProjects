@@ -23,3 +23,7 @@ Your public key has been saved in C:\Users\Administrator/.ssh/id_rsa.pub.
 
 第三步 git push -u -f origin master强制推送远程
 这里慕课网的Geely老师解释说，为什么强制推送呢，因为我们远程项目刚创建好，第一次推送代码，远程仓库是空的什么都没有，直接进行一个master上的全覆盖是没有问题的。
+
+
+2024年7月25日17点54分，在新建立的文件中发生更改变化。
+2024年7月25日18点14分，使用git diff命令进行回滚动作。
